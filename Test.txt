@@ -1,2 +1,2 @@
 Hello word SmartGit
- xung dot
+ xung dotasd
